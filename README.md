@@ -1,0 +1,1 @@
+Python script developed  to calculate Azure Billing cost using Azure Usage and RateCard REST API.
